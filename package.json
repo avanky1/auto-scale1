@@ -1,0 +1,17 @@
+{
+  "name": "cpu-stress-app",
+  "version": "1.0.0",
+  "description": "CPU stress test using heavy math calculations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
